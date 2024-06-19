@@ -1,0 +1,17 @@
+{
+    "name" : "FACG美化插件",
+    "slug" : "FACG",
+    "homepage" : "https://facg.top/",
+    "download_url" : "https://facg.top/FACG.zip",
+    
+    "version" : "3.3",
+    "upgrade_notice" : "有新版本请及时更新",
+    
+    "author" : "枫影",
+    "author_homepage" : "https://facg.top/",
+    
+    "sections" : {
+        "description" : "由枫影开发的子比主题美化插件，为子比主题提供更多的扩展功能。主题源码有详细的注释，支持二次开发。使用盗版主题会存在各种未知风险。支持正版，从我做起！"
+
+    }
+}
